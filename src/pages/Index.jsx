@@ -22,7 +22,6 @@ const Index = () => {
             stability is the boat's ability to remain stable when at rest,
             while dynamic stability refers to its stability when in motion.
           </p>
-          <img src="/images/boat-stability-1.jpg" alt="Boat Stability Illustration" className="mt-4" />
         </CardContent>
       </Card>
       <Separator />
@@ -42,7 +41,6 @@ const Index = () => {
             passengers and cargo, plays a significant role in maintaining
             stability.
           </p>
-          <img src="/images/boat-stability-2.jpg" alt="Boat Shapes and Stability" className="mt-4" />
         </CardContent>
       </Card>
       <Separator />
@@ -61,7 +59,6 @@ const Index = () => {
             Understanding and respecting the limits of your boat's stability can
             make your boating experience safer and more enjoyable.
           </p>
-          <img src="/images/boat-stability-3.jpg" alt="Weight Distribution on Boat" className="mt-4" />
         </CardContent>
       </Card>
     </div>
