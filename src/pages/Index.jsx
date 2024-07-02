@@ -12,6 +12,7 @@ const Index = () => {
           <CardTitle>Understanding Boat Stability</CardTitle>
         </CardHeader>
         <CardContent>
+          <img src="/images/boat-stability-1.jpg" alt="Boat Stability" width={600} height={400} className="mb-4" />
           <p>
             Boat stability is a crucial aspect of maritime safety. It refers to
             the ability of a boat to return to an upright position after being
@@ -30,6 +31,7 @@ const Index = () => {
           <CardTitle>Factors Affecting Stability</CardTitle>
         </CardHeader>
         <CardContent>
+          <img src="/images/boat-stability-2.jpg" alt="Factors Affecting Stability" width={600} height={400} className="mb-4" />
           <p>
             Several factors affect a boat's stability, including its shape,
             weight distribution, and center of gravity. A well-designed boat
@@ -49,6 +51,7 @@ const Index = () => {
           <CardTitle>Importance of Stability</CardTitle>
         </CardHeader>
         <CardContent>
+          <img src="/images/boat-stability-3.jpg" alt="Importance of Stability" width={600} height={400} className="mb-4" />
           <p>
             Ensuring boat stability is essential for preventing capsizing and
             ensuring the safety of everyone on board. Proper maintenance and
